@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/gl-image-processing/static/js/main.207c50a9.chunk.js",
-    "main.js.map": "/gl-image-processing/static/js/main.207c50a9.chunk.js.map",
+    "main.js": "/gl-image-processing/static/js/main.40ff5d15.chunk.js",
+    "main.js.map": "/gl-image-processing/static/js/main.40ff5d15.chunk.js.map",
     "runtime-main.js": "/gl-image-processing/static/js/runtime-main.99c72c56.js",
     "runtime-main.js.map": "/gl-image-processing/static/js/runtime-main.99c72c56.js.map",
     "static/js/2.4949c954.chunk.js": "/gl-image-processing/static/js/2.4949c954.chunk.js",
@@ -14,6 +14,6 @@
   "entrypoints": [
     "static/js/runtime-main.99c72c56.js",
     "static/js/2.4949c954.chunk.js",
-    "static/js/main.207c50a9.chunk.js"
+    "static/js/main.40ff5d15.chunk.js"
   ]
 }
